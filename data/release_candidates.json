@@ -1,0 +1,24 @@
+{
+  "candidates": [
+    {
+      "version": "v1.9.3",
+      "target_date": "2026-02-03",
+      "components": ["CMP-BILL", "CMP-API", "CMP-AUTH"]
+    },
+    {
+      "version": "v2.0.0-beta",
+      "target_date": "2026-02-10",
+      "components": ["CMP-API", "CMP-AUTH", "CMP-CONFIG", "CMP-WORKFLOW"]
+    },
+    {
+      "version": "v1.9.4",
+      "target_date": "2026-02-17",
+      "components": ["CMP-STORAGE", "CMP-OBS", "CMP-LOG"]
+    },
+    {
+      "version": "v1.9.5",
+      "target_date": "2026-03-01",
+      "components": ["CMP-CLI", "CMP-UI", "CMP-CONFIG"]
+    }
+  ]
+}
