@@ -1,0 +1,16 @@
+{
+  "components": [
+    { "id": "CMP-API",      "owner": "platform", "tier": 0, "lifecycle": "active" },
+    { "id": "CMP-AUTH",     "owner": "security", "tier": 0, "lifecycle": "active" },
+    { "id": "CMP-BILL",     "owner": "billing",  "tier": 1, "lifecycle": "active" },
+    { "id": "CMP-CLI",      "owner": "tooling",  "tier": 2, "lifecycle": "active" },
+    { "id": "CMP-CONFIG",   "owner": "config",   "tier": 1, "lifecycle": "active" },
+    { "id": "CMP-DOCS",     "owner": "docs",     "tier": 2, "lifecycle": "active" },
+    { "id": "CMP-EDGE",     "owner": "edge",     "tier": 1, "lifecycle": "active" },
+    { "id": "CMP-LOG",      "owner": "platform", "tier": 1, "lifecycle": "active" },
+    { "id": "CMP-OBS",      "owner": "platform", "tier": 1, "lifecycle": "active" },
+    { "id": "CMP-STORAGE",  "owner": "storage",  "tier": 1, "lifecycle": "active" },
+    { "id": "CMP-UI",       "owner": "frontend", "tier": 2, "lifecycle": "active" },
+    { "id": "CMP-WORKFLOW", "owner": "platform", "tier": 1, "lifecycle": "active" }
+  ]
+}
