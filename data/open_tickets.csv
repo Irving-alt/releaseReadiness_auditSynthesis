@@ -1,0 +1,19 @@
+TicketID,ComponentID,Severity,Status,CreatedAt,Labels,Title
+TCK-101,CMP-API,S0,Open,2026-01-10,security|release-blocker,JWT audience regression
+TCK-102,CMP-API,S2,In Progress,2026-01-12,api|bug,Rate limit bursts
+TCK-103,CMP-AUTH,S1,Blocked,2026-01-05,Security|bug,Timing leak follow-up
+TCK-104,CMP-CLI,S3,Open,2026-01-20,enhancement,Profile selection UX
+TCK-105,CMP-CONFIG,S2,Open,2026-01-18," docs | config ",Deprecation removal version needed
+TCK-106,CMP-DOCS,S3,Done,2026-01-02,docs,Migration doc typos
+TCK-107,CMP-STORAGE,S1,Open,2026-01-08,performance,Retry jitter distribution
+TCK-108,CMP-STORAGE,S2,Blocked,2026-01-15,bug,Multipart cleanup race
+TCK-109,CMP-EDGE,S2,Open,2026-01-22,performance,Burst miscount
+TCK-110,CMP-OBS,S2,Open,2026-01-11,observability,Cardinality spike
+TCK-111,CMP-LOG,S3,Open,2026-01-09,logging,Add redaction rules
+TCK-112,CMP-UI,S2,Closed,2025-12-30,ui,Layout glitch
+TCK-113,CMP-WORKFLOW,S1,Open,2026-01-06,release-blocker,Audit job flakiness
+TCK-114,CMP-WORKFLOW,S2,In Progress,2026-01-19,ci,Workflow documentation gap
+TCK-115,CMP-BILL,S0,Open,2026-01-03,release-blocker,Double charge regression
+TCK-116,CMP-BILL,S2,Done,2026-01-04,billing,Invoice formatting
+TCK-117,CMP-API,S1,Open,2026-01-16,security,Webhook signature hardening follow-up
+TCK-118,CMP-CONFIG,S3,Open,2026-01-23,,Empty labels field example
